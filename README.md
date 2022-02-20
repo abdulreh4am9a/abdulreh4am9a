@@ -53,10 +53,10 @@
     <td align='center' width="190" height="190"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></td>
   </tr></table> </p>
 
-<p align="center"><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulreh4am9a&show_icons=true&theme=synthwave" alt="abdulreh4am9a" /></p>
+<p align="center"><img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulreh4am9a&show_icons=true&theme=synthwave" alt="abdulreh4am9a" /></p>
 
-<p align="center"><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=abdulreh4am9a&show_icons=true&theme=synthwave" alt="abdulreh4am9a" /></p>
+<p align="center"><img width="80%" align="center" src="https://github-readme-stats.vercel.app/api?username=abdulreh4am9a&show_icons=true&theme=synthwave" alt="abdulreh4am9a" /></p>
 
-<p align="center"><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulreh4am9a&theme=synthwave" alt="abdulreh4am9a" /></p>
+<p align="center"><img width="90%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulreh4am9a&theme=synthwave" alt="abdulreh4am9a" /></p>
 
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=abdulreh4am9a&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
