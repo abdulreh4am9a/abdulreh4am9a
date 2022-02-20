@@ -45,3 +45,5 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulreh4am9a&show_icons=true&theme=synthwave" alt="abdulreh4am9a" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulreh4am9a&theme=synthwave" alt="abdulreh4am9a" /></p>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=abdulreh4am9a&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
