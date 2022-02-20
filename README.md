@@ -15,12 +15,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <table style="width: 100%">
+  <tr>
+   <td>
 <a href="https://twitter.com/abrehmaaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abrehmaaan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdul-rehman-8472a2217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-rehman-8472a2217" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12597310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12597310" height="30" width="40" /></a>
-<a href="https://fb.com/abrehmaaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrehmaaan" height="30" width="40" /></a>
-<a href="https://instagram.com/abrehmaaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abrehmaaan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codeitofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codeitofficial" height="30" width="40" /></a>
+</td><td>
+    <a href="https://linkedin.com/in/abdul-rehman-8472a2217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-rehman-8472a2217" height="30" width="40" /></a>
+</td><td>
+   <a href="https://stackoverflow.com/users/12597310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12597310" height="30" width="40" /></a>
+</td><td>
+   <a href="https://fb.com/abrehmaaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrehmaaan" height="30" width="40" /></a>
+</td><td>
+   <a href="https://instagram.com/abrehmaaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abrehmaaan" height="30" width="40" /></a>
+</td><td>
+   <a href="https://www.youtube.com/c/codeitofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codeitofficial" height="30" width="40" /></a>
+  </tr>
+  </table>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
