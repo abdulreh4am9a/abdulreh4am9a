@@ -58,5 +58,3 @@
 <p align="center"><img width="80%" align="center" src="https://github-readme-stats.vercel.app/api?username=abrehmaaan&show_icons=true&theme=synthwave" alt="abrehmaaan" /></p>
 
 <p align="center"><img width="90%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrehmaaan&theme=synthwave" alt="abrehmaaan" /></p>
-
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=abrehmaaan&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
