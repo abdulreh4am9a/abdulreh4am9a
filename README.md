@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">Programmer and Full Stack Developer from Pakistan</h3>
+<h2 align="center">BS CS | QAU'23 | AI/ML | Deep Learning (NLP) | Web Developer</h2>
+<h3 align="center">I'm a BS Computer Science graduate from Quaid-i-Azam University, Islamabad. My professional skills include Web development and I'm also interested in Machine Learning and Deep Learning (NLP).</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abrehmaaan&label=Profile%20views&color=0e75b6&style=flat" alt="abrehmaaan" /> </p>
 
