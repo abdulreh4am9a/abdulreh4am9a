@@ -82,9 +82,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="wordpress" width="40" />
       </a>
     </td>
-    <td align='center'
-
- width="190" height="20%">
+    <td align='center' width="190" height="20%">
       <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" />
       </a>
